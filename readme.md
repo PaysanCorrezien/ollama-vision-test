@@ -5,8 +5,7 @@ Used to test [LLAMA3.2 Vision](https://ollama.com/blog/llama3.2-vision)
 
 ## Prerequisites
 
-- Python 3.6+
-- Ollama server running (version 0.4.0+)
+- Ollama server running (version 0.4.0+) , released 2024-11-06
 - llama3.2-vision model pulled in Ollama : `ollama run llama3.2-vision`
 
 ## Installation
@@ -14,7 +13,7 @@ Used to test [LLAMA3.2 Vision](https://ollama.com/blog/llama3.2-vision)
 1. Clone this repository:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/PaysanCorrezien/ollama-vision-test
 cd handwriting-extractor
 ```
 
